@@ -1,11 +1,5 @@
 <?php
 
-'recreationalcode.php
-'Why?
-  'because i run this script at this server(before):
-  'recreationalusers.com
-  'hahaha
-
 @error_reporting(0); 
 @ini_set('error_log',NULL); 
 @ini_set('log_errors',0);
